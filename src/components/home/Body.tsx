@@ -28,7 +28,7 @@ const Body: FC = () => {
         <Secret isError={isError} isLoading={isLoading} />
         <div className="flex items-center gap-2 text-sm  text-sky-200">
           <IconSignature size={20} />
-          <span className="italic">ชื่อ นามสกุล รหัส</span>
+          <span className="italic">กณกวรรณ หว่อง 620612053</span>
         </div>
       </div>
       <div className="flex flex-col items-center justify-center gap-2 self-center rounded-lg border p-3">
