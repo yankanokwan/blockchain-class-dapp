@@ -49,6 +49,7 @@ const Body: FC = () => {
       </div>
     </Container>
   );
+
 };
 
 export default Body;
